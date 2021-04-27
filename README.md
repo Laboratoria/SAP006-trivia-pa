@@ -33,9 +33,11 @@ Pense nos passos que o usuário tem que percorrer, repasse o fluxograma e se org
 
 ### JavaScript
 
+- [ ] Tipos de Dados
 - [ ] Declaração correta de variáveis (const & let)
 - [ ] Concatenação de strings
 - [ ] Uso de condicionais (if-else | switch | operador ternário)
+- [ ] Uso de funções (parâmetros | argumentos | valor de retorno)
 
 ### Estrutura de código e guia de estilo
 
